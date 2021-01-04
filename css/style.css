@@ -138,13 +138,13 @@ body{
 }
 
 /*media queries*/
-@media (max-width: 1024px) {
+@media (max-width: 1160px) {
     .instagram-wrapper{
         width: 90%;
     }
 }
 
-@media (max-width: 650px){
+@media (max-width: 760px){
     body {
         background-color: #ffffff;
     }
