@@ -1,3 +1,3 @@
 # Reproducao-do-Instagram
 
-![](img/Rep-instagram.png)
+![](img/img-projeto.png)
